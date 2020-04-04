@@ -3,7 +3,7 @@
 ## Como usar a API do Eu Pago
 
 ### Endpoints
-* Demo: https://sandbox.eupago.pt/clientes/rest_api
+* Demo: https://sandbox.eupago.pt/clientes/rest_api (API KEY para demo: `demo-cf0c-36f8-4ef2-625`)
 * Prod: https://clientes.eupago.pt/clientes/rest_api
 
 Mais info: https://suporte.eupago.pt/pt/article/261-rest-api
